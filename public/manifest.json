@@ -1,0 +1,45 @@
+{
+  "short_name": "So Yummy",
+  "name": "So Yummy App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo-desktop@1x.png",
+      "type": "image/png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "logo-desktop@2x.png",
+      "type": "image/png",
+      "sizes": "88x88"
+    },
+    {
+      "src": "logo-desktop@3x.png",
+      "type": "image/png",
+      "sizes": "132x132"
+    },
+    {
+      "src": "logo-mobile@1x.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "logo-mobile@2x.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "logo-mobile@3x.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
